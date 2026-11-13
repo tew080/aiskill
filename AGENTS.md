@@ -10,7 +10,10 @@
 
 ```agent-scope
 {
+  "simulationOnly": true,
   "askBeforeAdvice": true,
-  "requireTest": true
+  "requireEvidence": true,
+  "requireTest": true,
+  "allowCredentials": false
 }
 ```
